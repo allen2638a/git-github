@@ -1,4 +1,2 @@
 This is the third files.
-This is the second line.
-This is the third line.
 
